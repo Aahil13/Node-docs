@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Node.js Home
+title: Home
 image: /assets/image/layout.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
@@ -16,7 +16,7 @@ actions:
     type: primary
 
   - text: Docs
-    link: ./docs
+    link: ./docs/
     icon: book
 footer: false
 ---
