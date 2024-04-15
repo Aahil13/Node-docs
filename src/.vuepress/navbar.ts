@@ -2,29 +2,24 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/demo/",
+  "/get-started/",
   {
-    text: "Guide",
-    icon: "lightbulb",
+    text: "Docs",
+    icon: "book",
     prefix: "/guide/",
     children: [
       {
         text: "Bar",
-        icon: "lightbulb",
+        icon: "book",
         prefix: "bar/",
         children: ["baz", { text: "...", icon: "ellipsis", link: "#" }],
       },
       {
         text: "Foo",
-        icon: "lightbulb",
+        icon: "book",
         prefix: "foo/",
         children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
       },
     ],
-  },
-  {
-    text: "V2 Docs",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/",
-  },
+  }
 ]);

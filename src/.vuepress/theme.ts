@@ -28,6 +28,8 @@ export default hopeTheme({
 
   displayFooter: true,
 
+  fullscreen: true,
+
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
