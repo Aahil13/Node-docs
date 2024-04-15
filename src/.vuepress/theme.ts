@@ -24,8 +24,9 @@ export default hopeTheme({
   navbar,
 
   // sidebar
+  
   sidebar,
-
+  
   footer: "Default footer",
 
   displayFooter: true,

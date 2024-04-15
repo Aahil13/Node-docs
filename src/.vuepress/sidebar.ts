@@ -6,15 +6,16 @@ export default sidebar({
     {
       text: "Get Started",
       icon: "lightbulb",
-      prefix: "demo/",
+      prefix: "get-started/",
       link: "get-started/",
-      children: "structure",
+      children: ["installation.md", "quick-start.md", "what-is-nodejs.md"],
     },
     {
       text: "Docs",
       icon: "book",
       prefix: "docs/",
       link: "docs/",
+      children: "structure",
     },
   ],
 });

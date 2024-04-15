@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { searchPlugin } from '@vuepress/plugin-search'
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -14,6 +15,11 @@ export default defineUserConfig({
   plugins: [
     searchPlugin({
       // options
+    }),
+    mdEnhancePlugin({
+      // your options
+      hint: true,
+      alert: true,
     }),
   ],
 
