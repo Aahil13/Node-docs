@@ -7,10 +7,12 @@ export default hopeTheme({
 
   author: {
     name: "Aahil",
-    url: "",
+    url: "https://linktr.ee/thecr3ator",
   },
 
   iconAssets: "fontawesome-with-brands",
+
+  favicon: "/assets/icon/node.png",
 
   logo: "/assets/icon/node.png",
 
@@ -183,3 +185,5 @@ export default hopeTheme({
     // },
   },
 });
+
+

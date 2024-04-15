@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import { searchPlugin } from '@vuepress/plugin-search'
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -9,6 +10,12 @@ export default defineUserConfig({
   description: "A docs demo for vuepress-theme-hope",
 
   theme,
+
+  plugins: [
+    searchPlugin({
+      // options
+    }),
+  ],
 
   // Enable it with pwa
   // shouldPrefetch: false,

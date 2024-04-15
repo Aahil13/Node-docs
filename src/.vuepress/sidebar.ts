@@ -4,22 +4,17 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "Demo",
-      icon: "laptop-code",
+      text: "Get Started",
+      icon: "lightbulb",
       prefix: "demo/",
-      link: "demo/",
+      link: "get-started/",
       children: "structure",
     },
     {
       text: "Docs",
       icon: "book",
-      prefix: "guide/",
-      children: "structure",
-    },
-    {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/guide/content/revealjs/demo.html",
+      prefix: "docs/",
+      link: "docs/",
     },
   ],
 });
