@@ -1,6 +1,6 @@
 ---
 title: Basics
-index: true
+index: false
 icon: circle-info
 category:
   - Basics
