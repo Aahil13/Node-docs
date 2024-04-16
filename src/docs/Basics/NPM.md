@@ -1,7 +1,7 @@
 ---
 title: NPM
 index: true
-icon: share-nodes
+icon: /assets/icon/npm.svg
 category:
   - Docs-Basics
 
