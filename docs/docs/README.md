@@ -34,12 +34,5 @@ In the [MySQL](/docs/MySQL/install_MySQL) section, you'll find in-depth informat
 - **Join**: Understand how to perform join operations to combine data from multiple tables in MySQL using Node.js.
 - **Delete**: Explore how to delete records from a MySQL database using Node.js.
 
-## Raspberry Pi
-
-In the [Raspberry Pi](/docs/RaspberryPi/Install_RaspberryPi) section, you'll discover Node.js applications on Raspberry Pi. Topics include:
-
-- **WebSockets**: Learn about implementing WebSocket communication in Node.js on Raspberry Pi for real-time data exchange.
-- **Blinking LED**: Explore how to control GPIO pins on Raspberry Pi using Node.js to create simple hardware projects.
-
 ::: important Get ready to level up your Node.js skills with our comprehensive documentation! 🚀
 :::
