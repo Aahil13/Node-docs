@@ -466,326 +466,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Create Database",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Example",
-        "slug": "example",
-        "link": "#example",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Create_Database.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Create Table",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Example",
-        "slug": "example",
-        "link": "#example",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Create_Table.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Delete",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Deleting Records with a Specific Condition",
-        "slug": "deleting-records-with-a-specific-condition",
-        "link": "#deleting-records-with-a-specific-condition",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Understanding the Result Object",
-        "slug": "understanding-the-result-object",
-        "link": "#understanding-the-result-object",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Delete.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Drop Table",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Deleting a Table",
-        "slug": "deleting-a-table",
-        "link": "#deleting-a-table",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Dropping Only if Exist",
-        "slug": "dropping-only-if-exist",
-        "link": "#dropping-only-if-exist",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Drop%20Table.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Insert Into",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Inserting into a Single Record",
-        "slug": "inserting-into-a-single-record",
-        "link": "#inserting-into-a-single-record",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Inserting Multiple Records",
-        "slug": "inserting-multiple-records",
-        "link": "#inserting-multiple-records",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Understanding the Result",
-        "slug": "understanding-the-result",
-        "link": "#understanding-the-result",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Retrieving Inserted IDs",
-        "slug": "retrieving-inserted-ids",
-        "link": "#retrieving-inserted-ids",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Insert%20Into.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Join",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Joining Tables",
-        "slug": "joining-tables",
-        "link": "#joining-tables",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Left Join",
-        "slug": "left-join",
-        "link": "#left-join",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Right Join",
-        "slug": "right-join",
-        "link": "#right-join",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Join.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Limit",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Limiting Results",
-        "slug": "limiting-results",
-        "link": "#limiting-results",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Starting from Another Position",
-        "slug": "starting-from-another-position",
-        "link": "#starting-from-another-position",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Shorter Syntax",
-        "slug": "shorter-syntax",
-        "link": "#shorter-syntax",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Limit.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Order By",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Sorting Ascendingly",
-        "slug": "sorting-ascendingly",
-        "link": "#sorting-ascendingly",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Sorting Descendingly",
-        "slug": "sorting-descendingly",
-        "link": "#sorting-descendingly",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Order%20By.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "MySQL",
-    "headers": [],
-    "path": "/docs/MySQL/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Select From",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Retrieving All Records",
-        "slug": "retrieving-all-records",
-        "link": "#retrieving-all-records",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Selecting Specific Columns",
-        "slug": "selecting-specific-columns",
-        "link": "#selecting-specific-columns",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Understanding the Result Object",
-        "slug": "understanding-the-result-object",
-        "link": "#understanding-the-result-object",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Exploring the Fields Object",
-        "slug": "exploring-the-fields-object",
-        "link": "#exploring-the-fields-object",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Select%20From.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Update",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Updating Records with a Specific Condition",
-        "slug": "updating-records-with-a-specific-condition",
-        "link": "#updating-records-with-a-specific-condition",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Understanding the Result Object",
-        "slug": "understanding-the-result-object",
-        "link": "#understanding-the-result-object",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Update.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Where",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Selecting Records with a Specific Value",
-        "slug": "selecting-records-with-a-specific-value",
-        "link": "#selecting-records-with-a-specific-value",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Using Wildcard Characters",
-        "slug": "using-wildcard-characters",
-        "link": "#using-wildcard-characters",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Escaping Query Values",
-        "slug": "escaping-query-values",
-        "link": "#escaping-query-values",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/Where.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Install MySQL",
-    "headers": [
-      {
-        "level": 3,
-        "title": "MySQL Database Setup",
-        "slug": "mysql-database-setup",
-        "link": "#mysql-database-setup",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Install MySQL Driver",
-        "slug": "install-mysql-driver",
-        "link": "#install-mysql-driver",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Create Connection",
-        "slug": "create-connection",
-        "link": "#create-connection",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Query a Database",
-        "slug": "query-a-database",
-        "link": "#query-a-database",
-        "children": []
-      }
-    ],
-    "path": "/docs/MySQL/install_MySQL.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Collection",
     "headers": [
       {
@@ -1288,6 +968,326 @@ export const searchIndex = [
       }
     ],
     "path": "/docs/MongoDB/install_MongoDB.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Create Database",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Example",
+        "slug": "example",
+        "link": "#example",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Create_Database.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Create Table",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Example",
+        "slug": "example",
+        "link": "#example",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Create_Table.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Delete",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Deleting Records with a Specific Condition",
+        "slug": "deleting-records-with-a-specific-condition",
+        "link": "#deleting-records-with-a-specific-condition",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Understanding the Result Object",
+        "slug": "understanding-the-result-object",
+        "link": "#understanding-the-result-object",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Delete.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Drop Table",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Deleting a Table",
+        "slug": "deleting-a-table",
+        "link": "#deleting-a-table",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Dropping Only if Exist",
+        "slug": "dropping-only-if-exist",
+        "link": "#dropping-only-if-exist",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Drop%20Table.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Insert Into",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Inserting into a Single Record",
+        "slug": "inserting-into-a-single-record",
+        "link": "#inserting-into-a-single-record",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Inserting Multiple Records",
+        "slug": "inserting-multiple-records",
+        "link": "#inserting-multiple-records",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Understanding the Result",
+        "slug": "understanding-the-result",
+        "link": "#understanding-the-result",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Retrieving Inserted IDs",
+        "slug": "retrieving-inserted-ids",
+        "link": "#retrieving-inserted-ids",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Insert%20Into.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Join",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Joining Tables",
+        "slug": "joining-tables",
+        "link": "#joining-tables",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Left Join",
+        "slug": "left-join",
+        "link": "#left-join",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Right Join",
+        "slug": "right-join",
+        "link": "#right-join",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Join.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Limit",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Limiting Results",
+        "slug": "limiting-results",
+        "link": "#limiting-results",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Starting from Another Position",
+        "slug": "starting-from-another-position",
+        "link": "#starting-from-another-position",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Shorter Syntax",
+        "slug": "shorter-syntax",
+        "link": "#shorter-syntax",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Limit.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Order By",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Sorting Ascendingly",
+        "slug": "sorting-ascendingly",
+        "link": "#sorting-ascendingly",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Sorting Descendingly",
+        "slug": "sorting-descendingly",
+        "link": "#sorting-descendingly",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Order%20By.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "MySQL",
+    "headers": [],
+    "path": "/docs/MySQL/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Select From",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Retrieving All Records",
+        "slug": "retrieving-all-records",
+        "link": "#retrieving-all-records",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Selecting Specific Columns",
+        "slug": "selecting-specific-columns",
+        "link": "#selecting-specific-columns",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Understanding the Result Object",
+        "slug": "understanding-the-result-object",
+        "link": "#understanding-the-result-object",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Exploring the Fields Object",
+        "slug": "exploring-the-fields-object",
+        "link": "#exploring-the-fields-object",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Select%20From.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Update",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Updating Records with a Specific Condition",
+        "slug": "updating-records-with-a-specific-condition",
+        "link": "#updating-records-with-a-specific-condition",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Understanding the Result Object",
+        "slug": "understanding-the-result-object",
+        "link": "#understanding-the-result-object",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Update.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Where",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Selecting Records with a Specific Value",
+        "slug": "selecting-records-with-a-specific-value",
+        "link": "#selecting-records-with-a-specific-value",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Using Wildcard Characters",
+        "slug": "using-wildcard-characters",
+        "link": "#using-wildcard-characters",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Escaping Query Values",
+        "slug": "escaping-query-values",
+        "link": "#escaping-query-values",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/Where.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Install MySQL",
+    "headers": [
+      {
+        "level": 3,
+        "title": "MySQL Database Setup",
+        "slug": "mysql-database-setup",
+        "link": "#mysql-database-setup",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Install MySQL Driver",
+        "slug": "install-mysql-driver",
+        "link": "#install-mysql-driver",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Create Connection",
+        "slug": "create-connection",
+        "link": "#create-connection",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Query a Database",
+        "slug": "query-a-database",
+        "link": "#query-a-database",
+        "children": []
+      }
+    ],
+    "path": "/docs/MySQL/install_MySQL.html",
     "pathLocale": "/",
     "extraFields": []
   },
